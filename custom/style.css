@@ -1,6 +1,6 @@
-@media (min-width: 768px) {
-.navbar-wrapper {
-    margin-top: 23px;
+
+.navbar-inverse .navbar-brand {
+    color: white;
 }
 
 .marketing .col-lg-4 p{
@@ -25,4 +25,11 @@
 footer{
 	font-size: 12px;
 	font-weight:300;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #004921;
+    border-color: #004921;
+    margin:5px;
 }

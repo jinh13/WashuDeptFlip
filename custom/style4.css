@@ -1,0 +1,18 @@
+p{
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+footer{
+	font-size: 12px;
+	font-weight:300;
+}
+
+.marketing .col-lg-4{
+	margin-left: 15px;
+	text-align: left;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
