@@ -33,3 +33,9 @@ footer{
     border-color: #004921;
     margin:5px;
 }
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #9b000e;
+    border-color: #9b000e;
+}
